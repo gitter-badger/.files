@@ -1,4 +1,5 @@
 # .files
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/klmr/.files?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Pronounced <em>/'dɒtːfaɪlz/</em>. My repository of configuration files to be
 shared between different working machines.
